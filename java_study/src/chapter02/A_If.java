@@ -1,4 +1,4 @@
-package chater02;
+package chapter02;
 // 조건문
 // : 프로그램의 흐름을 제어하느 ㄴ데 사용
 // 종류

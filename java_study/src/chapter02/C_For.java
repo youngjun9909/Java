@@ -1,4 +1,4 @@
-package chater02;
+package chapter02;
 
 // 반복문
 // : 작업을 반복적으로 실행하고 싶을 때 사용
