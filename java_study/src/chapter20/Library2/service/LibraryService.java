@@ -28,7 +28,6 @@ public class LibraryService {
 		}else {
 			System.out.println("대여 불가: 사용자가 존재하지 않거나 도서가 이미 대여 중입니다.");
 		}
-		
 	}
 
 	public void returnBook(String title) {
